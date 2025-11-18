@@ -5,8 +5,9 @@
 layout: single
 author_profile: true
 ---
-
 About
+---
+
 I am Postdoc Researcher in Hassan Masoud lab at Mechanical Engineering Department at Clemson University. Here, I am working on modeling and simulation of Marangoni surfing. Before that I was workng at Anna Balazs lab at University of Pittsburgh, Department of Chemical Engineering. My work at Pitt involved computer modeling of buoyancy-driven flows in a micro-chamber as a result of adding chemical reagents to react with enzyme-coated elastic micro-posts. We showed that how these chemo-hydro-mechanical feedback affects interactions in biomimetic array of anchored elastic micro-posts to generate regular, self-organized dynamical patterns as well as different modes of motion.
 
 My first Postdoc was in Nazockdast lab at the Department of Applied Physical Sciences at UNC Chapel Hill. My research has been mainly focused on continuum modeling of the mechanical behavior of the cell. In these studies, the cell is a multi-component structure composed of the cellular boundary, the cell interior and its nucleus, where these components are modeled as poro-viscoelastic materials. We have developed several tools of Stokes flow micro-hydrodynamics for equations of linear poroelasticity, including their general and fundamental solutions, reciprocal theorem and Faxén relations.
